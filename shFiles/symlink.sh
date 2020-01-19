@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Needs work before using again
 # Up from scripts dir
 cd ..
 
