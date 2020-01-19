@@ -1,3 +1,266 @@
+vim mySpecs.html
+./productOfNumbers
+vim productOfNumbers
+vim productOfNumbers.cpp
+./productOfNumbers
+clear
+vim productOfNumbers.cpp
+./productOfNumbers
+vim productOfNumbers.cpp
+clear
+vim enum
+rm enum
+ls
+vim enum.cpp
+clear
+vim typedef.cpp
+ls
+vim circleArea.cpp
+vim medianGrade.cpp
+ls
+clear
+vim netSalary.cpp
+./netSalary
+vim compare2Int.cpp
+clear
+cd ..
+ls
+cd PythonScripts
+ls
+vim breakTime.py
+cd 
+cd
+cd ~
+cd PythonScripts
+ls
+vim TheRealNgramProgram.py
+sudo apt-get autoremove
+cd MscProject
+ls
+cd otherCode
+ls
+rm gaussian
+ls
+./gaussianC
+ls
+vim gaussian.cpp
+ls
+cd ~
+ls
+cd mixedLanguages
+ls
+vim hai.py
+python3 hai.py
+./hai
+vim hai.cpp
+clear
+./hai
+lci hai.lol
+python3 hai.py
+lci hai.lol
+python3 hai.py
+./hai
+clear
+cd ~
+ls
+cd Houae
+cd House
+ls
+vim groceryEssentials.txt
+cd ..
+cd MscProject
+ls
+cd otherCode
+ls
+vim gaussian.c
+vim gaussian.cpp
+cd cppScripts
+ls
+vim coloredNoise.cpp
+cd MscProject/otherCode
+ls
+vim gaussian.cpp
+cd ../cppScripts
+ls
+cd ..
+ls
+cd cppScripts
+ls
+vim coloredNoise.cpp
+clear
+ls
+cd ..
+ls
+cd mixedLanguages
+ls
+clear
+vim hai.cpp
+vim hai.lol
+vim hai.py
+cd ..
+ls
+cd PythonScripts
+ls
+clear
+ls
+vim breakTime.py
+clear
+ls
+cd ..
+ls
+cd LondonUnderground
+ls
+py3 tubePlanner.py
+python3 tubePlanner.py
+ls
+vim tubePlanner.py
+python3 tubePlanner.py~
+python3 assignment3.py
+cd ..
+ls
+cd MscProject
+ls
+cd otherCoe
+cd otherCode
+ls
+cd ..
+cd cppScripts
+ls
+vim coloredNoise.cpp
+g++ coloredNoise coloredNoise.cpp
+g++ -o coloredNoise coloredNoise.cpp
+sudo apt update && sudp apt install nasm
+sudo apt update && sudo apt install nasm
+cd mixedLanguages
+ls
+nasm -f elf64 hello.asm
+gcc hello.o -o hello
+./hello
+cldar
+clear
+ls
+./hello
+vim hello.asm
+cd MscProject
+ls
+cd Reading
+cd ../References
+ls
+vim listOfReferences.txt
+cd ..
+ls
+cd mixedLanguages
+ls
+clear
+ls
+python3 hai.py
+lci hai.lol
+rm hai
+ls
+./hai.cpp
+./hai
+g++ -o NoWay hai.cpp
+ls
+./NoWay
+vim hello.asm
+cd ../cppScripts
+ls
+vim testCN.cpp
+clear
+vim testCN.cpp
+cd ../MscProject
+ls
+cd EnVar
+ls
+cd EnVar
+ls
+vim world.cpp
+vim externalenv.cpp
+cd ..
+ls
+cd Reading
+ls
+cd ..
+ls
+cd otherCode
+ls
+cd ..
+ls
+cd MscProject
+ls
+cd EnVar
+ls
+cd ../..
+ls
+cd PythonScripts
+ls
+cd Mega_course
+ls
+cd ../Mega_Course
+ls
+cd ..
+clear
+ls
+cd Downloads
+ls
+clear
+cd ../Documents
+ls
+cd Reading
+ls
+cd ..
+ls
+cd PythonScripts
+ls
+vim pattern.py
+cd ~
+cd cppScripts
+ls
+cd ..
+cd cScripts
+ls
+cd ..
+claer
+clear
+ls
+cd Desktop
+ls
+cd ..
+cd LondonUnderground
+ls
+cd Assignment3
+ls
+python3 ../assignment3.py
+cd ../..
+ls
+cd MscProject
+ls
+cd References
+ls
+cd ../otherCode
+ls
+cd ../EnVar
+ls
+cd EnVar
+ls
+cd ~
+cd PythonScripts
+ls
+cd ../snap
+ls
+cd ~
+clear
+cd MscProject/Reading
+ls
+vim pyFtrans.py
+cd ../EvnVar/EnVar
+cd ../EnVar/EnVar
+ls
+vim agent.cpp
+cd ..
+ls
+cd otherCode
+ls
 vim gauss.py
 ls
 cd ../..
@@ -1735,266 +1998,3 @@ vim script.js
 python3
 sudo /etc/init.d/apache2 stop
 sudo /opt/lampp/lampp restart
-ls
-cd cppScripts/
-ls
-cd ~
-cd git
-ls
-vim sara_changes.sh 
-cd udacity/
-ls
-cd refl
-cd reflections/
-ls
-git status
-cd ../../
-ls
-cd testing/
-ls
-vim hello.py 
-cd ~
-cd Downloads/
-ls
-vim sarah_changes_2.sh 
-vim uncomment-html.json 
-gsettings list-recursively | less
-clear
-gsettings list-recursively | less
-cd ~
-ls
-cd Desktop/
-ls
-ls -a
-cd .
-ls
-cd '.'
-cd ..
-ls -a
-cd .atom/
-ls
-cd ..
-ls -a
-vim .bashrc 
-vim .wget-hsts 
-vim .less
-vim .lesshst 
-vim .bash_logout 
-vim bash_profile_course 
-vim git-completion.bash 
-vim .gitconfig 
-vim git-prompt.sh 
-clear
-django-admin startproject test_project .
-python manage.py runserver
-exit
-ls
-ls pages
-ls
-ls helloWorld_project/
-cd helloWorld_project/ && ls
-vim settings.py 
-pip3 install pipenv
-ls
-alias cd = 'cd && ls'
-alias cd = cd && ls
-cd Desktop/
-ls
-mkdir django && cd django
-ls
-pipenv install django==3.0
-ls
-pipenv shell
-ls ..
-ls
-cd ~
-l
-ls
-l
-ls
-mkdir Django
-cd Django/
-mkdir helloWorld && cd helloWorld
-pipenv install django==3.0
-pipenv shell
-django-admin startproject helloWorld_project .
-tree
-sudo snap install tree # version 1.8.0+pkg-3fd6
-tree
-python manage.py runserver
-python manage.py migrate
-python manage.py server
-python manage.py runserver
-clear
-python manage.py startapp pages
-tree
-htop
-shutdown
-shutdown -c
-git clone https://github.com/scruffy403/myComputer.git
-ls
-clear
-ls
-mkdir github/dotfiles && cd github/dotfiles
-mkdir github && cd github
-mkdir dotfiles && cd dotfiles
-ls
-git init
-cd ..
-rmdir dotfiles/
-rmdir -R dotfiles/
-rmdir --help
-rmdir -pv dotfiles/
-cd dotfiles/
-ls
-ls -a
-rm -rf .git
-ls
-ls -a
-cd ..
-rmdir dotfiles/
-ls
-git init
-git clone https://github.com/scruffy403/dotfiles.git
-ls
-cd ~/household/
-ls
-git status
-cd ~
-ls
-git status
-cd myComputer/
-git status
-git add .
-ls
-cd House/
-ls
-mkdir toBuy && cd toBuy
-vim toBuyList.txt
-cd ~
-cd House/toBuy/ && ls
-vim toBuyList.txt 
-cd ~
-ls
-mkdir Household
-cd Household/
-git init
-git clone https://github.com/scruffy403/household.git
-git status
-pwd
-cd ..
-ls
-cd ~
-ls
-git clone https://github.com/scruffy403/household.git
-ls
-cd household/ && ls
-ls
-git status
-git add .
-git status
-git commit
-git status
-git push master origin
-gut push origin master
-git push origin master
-git status
-cd ~
-pgrep atom
-pkill atom
-sudo apt update
-sudo apt upgrade
-sudo apt install docker.io
-ls
-mkdir Docker
-cd Docker/
-touch main.py
-ls
-touch Dockerfile
-ls
-vim main.py 
-vim Dockerfile 
-sudo docker run hello-world
-cd ..
-sudo docker run hello-world
-sudo apt-get docker.io
-sudo apt install docker.io
-sudo docker run hello-world
-ls
-cd ~
-ls
-sudo docker run hello-world
-cd Docker/
-sudo docker run hello-world
-docker build -t python-test .
-sudo docker build -t python-test .
-docker run python-test
-sudo docker build -t python-test .
-sudo docker run python-test
-ls
-cd ..
-docker --version
-cd Docker/
-docker --verison
-docker --version
-ls
-vim main.py 
-vim Dockerfile 
-docker build -t python-test .
-docker build -t python-test . 
-docker build -t python-test
-docker build --help
-docker build -t pythonTest
-docker build -t pythontest
-docker build -t pythontest.
-docker build -t pythontest .
-sudo groupadd docker
-sudo usermod -aG docker jd
-docker build -t python-test .
-sudo docker run hello-world
-cd myComputer/
-git status
-git add .
-git status
-git add .
-git status
-cd WebDev/
-cd basicWebsite/Naomi_Website/
-ls
-git status
-cd ../..
-ls
-cd myC
-ls
-cd ~
-ls
-cd myComputer/
-git status
-git add .
-git status
-git commit
-git status
-git push origin master
-git status
-cd ~
-curl -fsSL
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release - cs) stable"
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release-cs) stable"
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release) stable"
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release - cs) stable"
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release - cs)"
-docker --version
-sudo docker run hello-world
-ls
-cd Docker/
-ls
-vim main.py 
-vim Dockerfile 
-docker build -t python-test .
-sudo usermod -a -G $jd
-sudo usermod -a -G docker $jd
-sudo usermod -a -G docker $jd -v
-clear
-docker build -t python-test .
-htop
